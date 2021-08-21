@@ -1,0 +1,77 @@
+﻿body
+{
+	background-color: #800000;
+	color: black;
+}
+
+a
+{
+    color: #800000;	
+}
+
+#kozos
+{
+	width: 750px;
+	margin: auto;
+	background-color: #FFFFE0;
+	border-spacing: 0px;
+}
+
+#kozos, .kozoscellak
+{
+	border: solid 5px black;
+}
+
+.kozoscellak
+{
+	padding: 5px;
+}
+
+#ovcella
+{
+	width: 120px;
+	text-align: center;
+	vertical-align: top;
+}
+
+h1
+{
+	text-align: center;
+}
+
+#eletrajzkep
+{
+	float: left;
+}
+
+#katalogus
+{
+	width: 550px;
+	margin: auto;
+	font-size: 13px;
+}
+
+#katalogus, #katalogus td
+{
+	border: solid 1px black;
+}
+
+#elsosor
+{
+	background-color: #800000;
+	color: white;
+	text-align: center;
+}
+
+p
+{
+	font-size: 26px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#kep
+{
+	display: block;
+	margin: auto;
+}

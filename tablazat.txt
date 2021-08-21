@@ -1,0 +1,14 @@
+﻿<td>Cím</td><td>Keletkezés</td><td>Adatok</td><td>Tulajdonos</td>
+<td>Éjjeli menhely előtt</td><td>1907</td><td>Olaj, vászon, 111 x 120,5 cm</td><td>Magyar Nemzeti Galéria, Budapest</td>
+<td>Bohóc</td><td>1911</td><td>Olaj, karton, 54 x 37,7 cm</td><td>Rippl-Rónai Múzeum, Kaposvár</td>
+<td>Szerelmesek</td><td>1911</td><td>Olaj, lemezpapír, 73 x 44,5 cm</td><td>Magyar Nemzeti Galéria, Budapest</td>
+<td>Kikötői munkások</td><td>1912 körül</td><td>Olaj, karton, 57 x 100 cm</td><td>Magyar Nemzeti Galéria, Budapest</td>
+<td>Szent Kristóf a Balatonnál</td><td>1927</td><td>Olaj, pasztell, vászon, 60 x 85 cm</td><td>Bakony Múzeum, Veszprém</td>
+<td>Önarckép napsütésben</td><td>1927</td><td>Olaj, vászon, 58,5 x 82 cm</td><td>Magyar Nemzeti Galéria, Budapest</td>
+<td>Badacsony</td><td>1930 körül</td><td>Olajpasztell, karton, 70 x 99 cm</td><td>Magyar Nemzeti Galéria, Budapest</td>
+<td>Badacsonyi est</td><td>1930 körül</td><td>Olaj, tempera, karton, 49 x 59 cm</td><td>Magántulajdon</td>
+<td>Szivárvány</td><td>1930</td><td>Olaj, tempera, pasztell, karton, 72 x 101 cm</td><td>Magyar Nemzeti Galéria, Budapest</td>
+<td>Balatoni halász</td><td>1937-38</td><td>Olaj, tempera, papír, 107 x 70 cm</td><td>Janus Pannonius Múzeum, Pécs</td>
+<td>Visszhang</td><td>1936</td><td>Olaj, vászon, 116 x 125,5 cm</td><td>Magyar Nemzeti Galéria, Budapest</td>
+<td>Napfelkelte</td><td>1940</td><td>Olaj, pasztell, papír, 73,6 x 98 cm</td><td>Magyar Nemzeti Galéria, Budapest</td>
+<td>Gyümölcsöstál</td><td>-</td><td>Olaj, vászon, 63 x 84,5 cm</td><td>Magántulajdon</td>
